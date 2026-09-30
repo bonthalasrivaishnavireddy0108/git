@@ -4,3 +4,4 @@ Python
 Mathematics
 Database Management System
 Computer Networks
+Operating Systems
