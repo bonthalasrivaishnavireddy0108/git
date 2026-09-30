@@ -4,3 +4,4 @@ Python
 Mathematics
 Database Management System
 Computer Networks
+New subject added from Commit 2.
